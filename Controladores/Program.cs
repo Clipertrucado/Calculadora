@@ -78,6 +78,10 @@ namespace Calculadora
                         Console.WriteLine("El resultado de la división es: " + resul);
                         break;
 
+                    default:
+                        Console.WriteLine("");
+                        break;
+
                 }
 
             }
